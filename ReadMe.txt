@@ -13,5 +13,7 @@ step - vim /opt/dev_sda4/Burpsuite/start.sh
       
 
 step - save and exit 
-
+step - then opne terminal go to extracted Dirctory
+ eg: cd /opt/dev_sda4/Burpsuite/
+step - bash /opt/dev_sda4/Burpsuite/start.sh
         
